@@ -71,7 +71,7 @@ Random Ideas is open source and released under the [MIT License](LICENSE).
 If you have any questions or need further assistance, please feel free to contact the project maintainer:
 
 - Debarshee Chakraborty
-- Email: [debarshee@example.com](mailto:debarshee@example.com)
+- Email: [debarsheechakraborty.11d@gmail.com](mailto:debarsheechakraborty.11d@gmail.com)
 - GitHub: [debarshee2004](https://github.com/debarshee2004)
 
 We hope you find the Random Ideas web application useful for capturing and organizing your brilliant thoughts!
